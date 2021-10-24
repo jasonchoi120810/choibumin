@@ -1,0 +1,2 @@
+# choibumin
+nitro 60
